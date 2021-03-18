@@ -19,7 +19,7 @@ python generate_lemons.py --type=healthy
 ```
 or:
 ```
-python generate_lemons.py --type=healthy
+python generate_lemons.py --type=unhealthy
 ```
 
 Then, 1000 jpg files will be generated of lemons that are either healthy or unhealthy
