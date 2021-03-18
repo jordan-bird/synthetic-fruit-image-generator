@@ -36,3 +36,6 @@ Trained on the [Lemons quality control dataset](https://github.com/softwaremill/
 Generator code from [Machine Learning Mastery](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/)
 
 (Jason Brownlee's code has been edited to support larger RGB images, and the program requires the definition of the class by the user)
+
+## :lemon: Licensing :lemon:
+You can do whatever you want with my model, it's completely open source provided you cite our work! *I'll add a link soon when the preprint is uploaded*
