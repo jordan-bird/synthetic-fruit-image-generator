@@ -1,4 +1,6 @@
 # :lemon: Synthetic Lemon Image Generator :lemon:
+![Synthetic mouldy lemons](preview.jpg)
+
 This code utilises a Conditional Generative Adversarial Network which has been trained on healthy and unhealthy lemons 
 
 ## :lemon: What does this code do? :lemon:
