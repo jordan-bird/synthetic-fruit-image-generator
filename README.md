@@ -14,8 +14,9 @@ Image from our paper: *I'll add a link soon when the preprint is uploaded*
 ## :lemon: Requirements :lemon:
 * NumPy
 * Keras
+* Matplotlib (if you want to plot the images)
 
-I used NumPy v1.19.3 and Keras v2.4.3 with TensorFlow 2.4.0 backend, but most versions should work
+I used NumPy v1.19.3 and Keras v2.4.3 with TensorFlow 2.4.0 backend, but most versions should work. 
 
 ## :lemon: How do I use this? :lemon:
 Simply run either:
