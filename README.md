@@ -26,6 +26,12 @@ or:
 python generate_lemons.py --type=unhealthy
 ```
 
+To change the weights, line 44 defines which model to use:
+```
+model = load_model('lemons_generator_1500.h5')
+```
+In the form: 'lemons_generator_*epochnum*.h5'
+
 Then, 1000 jpg files will be generated of lemons that are either healthy or unhealthy
 
 ## :lemon: Training info :lemon:
@@ -42,4 +48,4 @@ Generator code from [Machine Learning Mastery](https://machinelearningmastery.co
 (Jason Brownlee's code has been edited to support larger RGB images, and the program requires the definition of the class by the user)
 
 ## :lemon: Licensing :lemon:
-You can do whatever you want with my model, it's completely open source provided you cite our work! *I'll add a link soon when the preprint is uploaded*
+You can do whatever you want with my model, it's completely open source. Please cite the following if you use it: *I'll add a link soon when the preprint is uploaded*
