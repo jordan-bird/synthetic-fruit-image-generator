@@ -50,7 +50,7 @@ This model was developed for the following research paper: *I'll add a link soon
 
 Trained on the [Lemons quality control dataset](https://github.com/softwaremill/lemon-dataset)
 
-Generator code from [Machine Learning Mastery](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/) - Jason Brownlee's code has been edited to support larger RGB images, and the program requires the definition of the class by the user.
+Code written following a tutorial from [Machine Learning Mastery](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/) - Jason Brownlee's code has been edited to support larger RGB images, and the program requires the definition of the class by the user.
 
 Class activation analysis (code not included) is from [Selvaraju, et al](https://arxiv.org/abs/1610.02391) via the [VGG16 model](https://arxiv.org/abs/1409.1556). A keras tutorial for this can be found [here](https://keras.io/examples/vision/grad_cam/). We analyse *"block5_conv3"* followed by *"block5_pool"*, *"flatten"* (all from VGG16), and then our own layer of 4096 neurons (*"dense_1"*) and output (*"predictions"*).
 
